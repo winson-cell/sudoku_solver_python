@@ -1,1 +1,1 @@
-sudoku_solver_python
+Simple sudoku solver
